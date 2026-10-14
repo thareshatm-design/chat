@@ -1,0 +1,6 @@
+{
+  "name": "SecureChat",
+  "description": "High-security end-to-end encrypted messaging application with real ECDH and AES-256-GCM cryptography, 2FA, disappearing messages, voice notes, and admin access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

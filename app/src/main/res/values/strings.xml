@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecureChat</string>
+    <string name="security_subtitle">End-to-End Encrypted Messenger</string>
+    <string name="e2ee_notice">Messages are end-to-end encrypted. No one outside of this chat, not even SecureChat, can read them.</string>
+</resources>

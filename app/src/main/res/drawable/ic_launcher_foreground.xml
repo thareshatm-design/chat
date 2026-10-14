@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Chat Bubble Shield Base -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,26 C38,26 27,36 27,50 C27,58 31,64.5 37.5,69 L34,81 L46.5,74.5 C48.9,75.1 51.4,75.5 54,75.5 C70,75.5 81,64.5 81,50 C81,36 70,26 54,26 Z" />
+    <!-- Inner Chat Surface Highlight -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M54,29 C40,29 30,37.8 30,49.5 C30,56.5 33.6,62.2 39.2,66.2 L36.5,75.5 L46.8,70.5 C49.1,71.1 51.5,71.5 54,71.5 C68,71.5 78,61.7 78,49.5 C78,37.8 68,29 54,29 Z" />
+    <!-- Padlock Shackle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,37 C50.7,37 48,39.7 48,43 L48,47 L60,47 L60,43 C60,39.7 57.3,37 54,37 Z M54,40 C55.7,40 57,41.3 57,43 L57,47 L51,47 L51,43 C51,41.3 52.3,40 54,40 Z" />
+    <!-- Padlock Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,46 C43.9,46 43,46.9 43,48 L43,59 C43,60.1 43.9,61 45,61 L63,61 C64.1,61 65,60.1 65,59 L65,48 C65,46.9 64.1,46 63,46 L45,46 Z" />
+    <!-- Keyhole inside lock -->
+    <path
+        android:fillColor="#047857"
+        android:pathData="M54,50 C52.9,50 52,50.9 52,52 C52,52.7 52.4,53.3 53,53.7 L53,57 C53,57.6 53.4,58 54,58 C54.6,58 55,57.6 55,57 L55,53.7 C55.6,53.3 56,52.7 56,52 C56,50.9 55.1,50 54,50 Z" />
+</vector>
